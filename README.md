@@ -20,6 +20,11 @@ Before running this project, make sure you have the following installed:
 - [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools) (for Solana interactions)
 - [Anchor CLI](https://project-serum.github.io/anchor/getting-started/installation.html) (for Anchor framework)
 
+
+## Project Overview Video
+
+You can watch the demo video below:
+
 ## Getting Started
 
 ### 1. Clone the Repository
@@ -27,3 +32,7 @@ Before running this project, make sure you have the following installed:
 ```bash
 git clone https://github.com/PritamP20/SolanaBlog.git
 cd SolanaBlog
+cd app
+yarn dev
+
+
